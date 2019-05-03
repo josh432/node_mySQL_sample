@@ -1,0 +1,19 @@
+{
+  "name": "node_mysql_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh432/node_mySQL_sample.git"
+  },
+  "author": "Josh Silverman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh432/node_mySQL_sample/issues"
+  },
+  "homepage": "https://github.com/josh432/node_mySQL_sample#readme"
+}
